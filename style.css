@@ -109,3 +109,6 @@ color:#FFF;
 #drop:hover{background-color: #06F; color: white;}
 #navbarDropdown:hover{color: white;}
 #navbarSupportedContent{color: white;}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
